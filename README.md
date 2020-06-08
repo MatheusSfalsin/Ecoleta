@@ -1,10 +1,11 @@
+
 <h1 align="center">
-     ![Ecoleta](github/logo.png)
+    <img src="github/logo.png">
 <br>
 
 <h3 align="center">
    
-Desenvolvido na Next Level Week (1.0) da [Rockeseat](https://rocketseat.com.br)
+Desenvolvido na Next Level Week (1.0) da [Rockeseat](https://rocketseat.com.br)🚀
 
 </h3>
 </h1>
