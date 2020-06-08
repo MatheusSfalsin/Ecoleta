@@ -1,5 +1,5 @@
 <h1 align="center">
-   Coronavírus
+   Ecoleta
 
 <br>
 </h1>
