@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="github/logo.png">
 <br>
@@ -11,7 +10,7 @@ Desenvolvido na Next Level Week (1.0) da [Rockeseat](https://rocketseat.com.br)ð
 </h1>
 <br>
 
-![png1](github/Main.png)
+![png1](github/Main_.png)
 
 - O que Ã© o Projeto?
 
