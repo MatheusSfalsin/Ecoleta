@@ -57,8 +57,6 @@ Desenvolvido na Next Level Week (1.0) da [Rockeseat](https://rocketseat.com.br)�
   <img src="github/mobile.jpg" width="350">
   </p>
 
-## Tecnologias:
-
 ## ⚙ Inicialização
 
 #### Server
